@@ -1,0 +1,12 @@
+{
+    "denoise_ksize": 3,
+    "tophat_ksize": 25,
+    "adapt_blocksize": 11,
+    "adapt_C": -13,
+    "open_ksize": 1,
+    "dilate_ksize": 1,
+    "area_min": 5,
+    "area_max": 3000,
+    "circularity_min": 0.3,
+    "roi_circle": null
+}

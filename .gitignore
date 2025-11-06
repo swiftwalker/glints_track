@@ -1,0 +1,93 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyTorch Models and Checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+best.pt
+
+# HDF5 Data Files
+*.h5
+*.hdf5
+
+# Large Data Directories
+pictures/
+pictures_sampled/
+data/
+dataset/
+
+# Output Files
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+
+# Logs
+*.log
+logs/
+runs/
+tensorboard/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+
+# JSON config (if contains sensitive info)
+# params.json
+
+# Keep example files (uncomment if needed)
+# !example.png
+# !sample.csv
