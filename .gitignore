@@ -85,6 +85,9 @@ Thumbs.db
 *.temp
 *.bak
 
+# Runs
+runs/
+
 # JSON config (if contains sensitive info)
 # params.json
 
